@@ -23,4 +23,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRicardo2005)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Apaixonado por Tecnologia desde meus 12 anos e com uma vontade imensa de mudar o mundo com Software
+<strong>Apaixonado por Tecnologia desde meus 12 anos e com uma vontade imensa de mudar o mundo com Software</strong>
