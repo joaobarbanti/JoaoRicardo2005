@@ -1,6 +1,6 @@
 ### Olá! Eu Sou o João Ricardo Dev👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-ricardo-barbanti-634764224/)
+
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511989138885&text=ol%C3%A1%20vim%20pelo%20seu%20github)
 
