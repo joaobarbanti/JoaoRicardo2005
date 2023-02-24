@@ -20,7 +20,7 @@
 
 ### Linguagens Mais Usadas Por Mim
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRicardo2005)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobarbanti)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <strong>Apaixonado por Tecnologia desde meus 12 anos e com uma vontade imensa de mudar o mundo com Software</strong>
