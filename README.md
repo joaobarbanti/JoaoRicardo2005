@@ -8,7 +8,7 @@
 
 
 
-### Tecnologias Que Mais Uso no Meu Dia a Dia
+### Tecnologias Que Mais Utilizo no Meu Dia a Dia
 
 <div style="display: inline_block"><br/>
 
@@ -18,7 +18,7 @@
 
 </div>
 
-### Linguagens Mais Usadas Por Mim
+### Linguagens Mais Utilizadas Por Mim
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobarbanti)](https://github.com/anuraghazra/github-readme-stats)
 
